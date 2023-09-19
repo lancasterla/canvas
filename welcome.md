@@ -8,4 +8,4 @@
     <li><span style="font-size: 14pt;">Students will learn acceptable and unacceptable discourse found in the American Deaf community.</span></li>
     <li><span style="font-size: 14pt;">Students will learn about degrees of deafness, educational decisions, family nucleus make-up, and SES in regard to Deaf.</span></li>
 </ol>
-<p><iframe style="width: 400px; height: 285px;" title="Deaf Culture _LUKE new (04:10)" src="https://online.valenciacollege.edu/courses/134021/external_tools/retrieve?display=borderless&amp;url=https%3A%2F%2F1881491-2.kaf.kaltura.com%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_7lslc6gb%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F400x285%2FplayerSkin%2F30648821%2F" width="608" height="402" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *" data-mce-fragment="1"></iframe></p>
+<p>
